@@ -1,5 +1,6 @@
 # CI/CD to Kubernetes using Jenkins and Helm
-This project is an example of a complete CI/CD pipeline of a simple static web application from sources to deployed Kubernetes pods.
+This demonstration :w
+project is an example of a complete CI/CD pipeline of a simple static web application from sources to deployed Kubernetes pods.
 
 ## Artifactory as Docker registry
 This project uses [Artifactory](https://jfrog.com/integration/artifactory-docker-registry/) as its Docker registry.
